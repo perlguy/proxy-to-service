@@ -1,3 +1,5 @@
+### TODO: update docs to match new functionality
+
 # Proxy a pod port or host port to a kubernetes Service
 
 While Kubernetes provides the ability to map Services to ports on each node,
